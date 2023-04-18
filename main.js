@@ -7,3 +7,5 @@ save()
   a.click();
   console.log();
 }
+
+save();
